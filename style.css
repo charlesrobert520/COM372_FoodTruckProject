@@ -1,0 +1,198 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+
+body{
+  font-family: 'Monsterrat', sans-serif;
+}
+
+#indexheader {
+  color: 005737;
+  font-size: 50px;
+  margin-left: 450px;
+}
+
+#menuheader {
+  color: 005737;
+  font-size: 50px;
+  margin-left: 600px;
+}
+
+#ourstoryheader {
+  color: 005737;
+  font-size: 50px;
+  margin-left: 550px;
+  margin-bottom: 25px;
+}
+
+#upcomingeventsheader {
+  color: 005737;
+  font-size: 50px;
+  margin-left: 450px;
+}
+
+h2 {
+  color: Gold;
+  font-size: 35px;
+  font-family: 'Pacifico', cursive;
+}
+
+ul {
+  list-style: none;
+}
+
+#indexlist li {
+  display: inline-block;
+  margin: 10px;
+  font-size: 25px;
+  color: Gold;
+  border: 2px solid;
+  border-color: 005737;
+  font-family: 'Pacifico', cursive;
+
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#indexlist {
+margin-left: 400px;
+margin-top: 0px;
+margin-bottom: 50px;
+
+}
+
+#indexh2 {
+  margin-left: 510px;
+}
+
+#indexh3 {
+  padding-bottom: 0px;
+  color: FireBrick;
+  margin-left: 125px;
+}
+
+#eventlist {
+  font-size: 20px;
+  color: FireBrick;
+}
+
+
+#event1 {
+  margin-left: 50px;
+  margin-bottom: 20px;
+}
+
+#event2 {
+  margin-bottom: 20px;
+  margin-left: 425px;
+}
+
+#event3 {
+  margin-bottom: 20px;
+  margin-left: 375px;
+}
+
+#event4 {
+  margin-bottom: 20px;
+  margin-left: 430px;
+}
+
+#event5 {
+  margin-bottom: 20px;
+  margin-left: 375px;
+}
+
+#event6 {
+  margin-bottom: 20px;
+  margin-left: 425px;
+}
+
+#eventsh2 {
+  margin-left: 265px;
+  margin-bottom: 50px;
+}
+
+#appetizerslist {
+  color: FireBrick;
+  font-size: 19px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+#soupslist {
+  color: FireBrick;
+  font-size: 19px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+#sandwicheslist {
+  color: FireBrick;
+  font-size: 19px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+#beansnricelist {
+  color: FireBrick;
+  font-size: 19px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+p {
+  color:FireBrick;
+  margin-top: 35px;
+  font-size: 25;
+  text-indent: 50px;
+}
+
+#foodtruckpicture {
+  margin-left: 400px;
+}
+
+#ourstoryh2 {
+  margin-left: 565px;
+}
+
+#menuh3 {
+  color: FireBrick;
+  margin-left: 39px;
+  font-size: 12px;
+}
+
+#appetizersh2 {
+  margin-left: 39px;
+  margin-bottom: 0px;
+}
+
+#soupsh2 {
+  margin-left: 35px;
+  margin-bottom: 0px;
+}
+
+#sandwichesh2 {
+  margin-left: 35px;
+  margin-bottom: 0px;
+}
+
+#beansnriceh2 {
+  margin-left: 45px;
+  margin-bottom: 0px;
+}
+
+#farinatapicture {
+  margin-left: 42px;
+}
+
+#redlentilpicture {
+  margin-left: 42px;
+}
+
+#falafelpicture {
+  margin-left: 42px;
+}
+
+#redbeansnricepicture {
+  margin-left: 42px;
+}
